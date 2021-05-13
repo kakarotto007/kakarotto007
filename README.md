@@ -8,7 +8,7 @@
 kakarotto007/kakarotto007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, i'm kakarotto007
+Hi, i'm kakarotto007.
 i'm interested in looking beautiful girl
 i'm currently learning java
 i'm looking to collaborate on ( i don't know)
